@@ -1,5 +1,5 @@
 # PoizeiGesetz Analysis
-This repository contains the analysis for the project "Poizeigesetz Analysis". The analysis focuses on the data from the BKA and GESIS datasets to understand various aspects related to policy reforms, crime statistics, and socioeconomic factors.
+This repository contains the analysis for the the seminar project "Poizeigesetz Analysis" by Dr. Sebastian Köhler. The analysis focuses on the data from the BKA and GESIS datasets to understand various aspects related to policy reforms, crime statistics, and socioeconomic factors.
 
 ## 1. Packages
 The following R packages are required: 
